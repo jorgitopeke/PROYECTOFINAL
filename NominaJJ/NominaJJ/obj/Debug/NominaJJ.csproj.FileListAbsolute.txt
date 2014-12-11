@@ -1,0 +1,5 @@
+f:\users\jorge\documents\visual studio 2013\Projects\NominaJJ\NominaJJ\bin\Debug\NominaJJ.dll
+f:\users\jorge\documents\visual studio 2013\Projects\NominaJJ\NominaJJ\bin\Debug\NominaJJ.pdb
+f:\users\jorge\documents\visual studio 2013\Projects\NominaJJ\NominaJJ\obj\Debug\NominaJJ.csprojResolveAssemblyReference.cache
+f:\users\jorge\documents\visual studio 2013\Projects\NominaJJ\NominaJJ\obj\Debug\NominaJJ.dll
+f:\users\jorge\documents\visual studio 2013\Projects\NominaJJ\NominaJJ\obj\Debug\NominaJJ.pdb
